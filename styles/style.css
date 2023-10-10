@@ -1,0 +1,35 @@
+body{
+    text-align: center;
+    align-items: center;
+}
+.ancho{
+    padding: 5px;
+    margin: 5px;
+}
+.longitud{
+    padding: 5px;
+    margin: 5px;
+}
+label{ 
+    padding: 5px;
+    margin: 5px;
+}
+button{
+    padding: 12px;
+    margin: 5px;
+    margin-left: 95px;
+    background-color: rgb(52, 52, 255);
+    color: whitesmoke;
+    border-style: none;
+    border-radius: 3px;
+    
+}
+.perimetro{
+    padding: 5px;
+    margin: 5px;
+}
+
+.area{
+    padding: 5px;
+    margin: 5px;
+}
